@@ -1,0 +1,133 @@
+# Logfile created on 2016-12-29 06:27:46 +0900 by logger.rb/31641
+[12/29/16 06:27:46 +0900 kurata-keisuke-no-MacBook-Pro.local (17395)] INFO : Starting the New Relic agent in "development" environment.
+[12/29/16 06:27:46 +0900 kurata-keisuke-no-MacBook-Pro.local (17395)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/29/16 06:27:46 +0900 kurata-keisuke-no-MacBook-Pro.local (17395)] INFO : Reading configuration from 
+[12/29/16 06:27:46 +0900 kurata-keisuke-no-MacBook-Pro.local (17395)] ERROR : Unable to read configuration file : can't convert nil into String
+[12/29/16 06:27:46 +0900 kurata-keisuke-no-MacBook-Pro.local (17395)] INFO : Enabling the Request Sampler.
+[12/29/16 06:27:46 +0900 kurata-keisuke-no-MacBook-Pro.local (17395)] INFO : Environment: development
+[12/29/16 06:27:46 +0900 kurata-keisuke-no-MacBook-Pro.local (17395)] INFO : No known dispatcher detected.
+[12/29/16 06:27:46 +0900 kurata-keisuke-no-MacBook-Pro.local (17395)] INFO : Application: development
+[12/29/16 06:27:46 +0900 kurata-keisuke-no-MacBook-Pro.local (17395)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[12/29/16 06:27:46 +0900 kurata-keisuke-no-MacBook-Pro.local (17395)] INFO : Installing Net instrumentation
+[12/29/16 06:27:46 +0900 kurata-keisuke-no-MacBook-Pro.local (17395)] INFO : Installing deferred Rack instrumentation
+[12/29/16 06:27:46 +0900 kurata-keisuke-no-MacBook-Pro.local (17395)] INFO : Installing Rails 4 Controller instrumentation
+[12/29/16 06:27:48 +0900 kurata-keisuke-no-MacBook-Pro.local (17395)] INFO : Installing Rails 4 view instrumentation
+[12/29/16 06:27:48 +0900 kurata-keisuke-no-MacBook-Pro.local (17395)] INFO : Installing Rails4 Error instrumentation
+[12/29/16 06:27:48 +0900 kurata-keisuke-no-MacBook-Pro.local (17395)] INFO : Finished instrumentation
+[12/29/16 06:34:05 +0900 kurata-keisuke-no-MacBook-Pro.local (17762)] INFO : Starting the New Relic agent in "development" environment.
+[12/29/16 06:34:05 +0900 kurata-keisuke-no-MacBook-Pro.local (17762)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/29/16 06:34:05 +0900 kurata-keisuke-no-MacBook-Pro.local (17762)] INFO : Reading configuration from config/newrelic.yml
+[12/29/16 06:34:05 +0900 kurata-keisuke-no-MacBook-Pro.local (17762)] INFO : Enabling the Request Sampler.
+[12/29/16 06:34:05 +0900 kurata-keisuke-no-MacBook-Pro.local (17762)] INFO : Environment: development
+[12/29/16 06:34:05 +0900 kurata-keisuke-no-MacBook-Pro.local (17762)] INFO : Dispatcher: webrick
+[12/29/16 06:34:05 +0900 kurata-keisuke-no-MacBook-Pro.local (17762)] INFO : Application: My Application (Development)
+[12/29/16 06:34:05 +0900 kurata-keisuke-no-MacBook-Pro.local (17762)] INFO : Installing Net instrumentation
+[12/29/16 06:34:06 +0900 kurata-keisuke-no-MacBook-Pro.local (17762)] INFO : Installing deferred Rack instrumentation
+[12/29/16 06:34:06 +0900 kurata-keisuke-no-MacBook-Pro.local (17762)] INFO : Installing Rails 4 Controller instrumentation
+[12/29/16 06:34:07 +0900 kurata-keisuke-no-MacBook-Pro.local (17762)] INFO : Installing Rails 4 view instrumentation
+[12/29/16 06:34:07 +0900 kurata-keisuke-no-MacBook-Pro.local (17762)] INFO : Installing Rails4 Error instrumentation
+[12/29/16 06:34:07 +0900 kurata-keisuke-no-MacBook-Pro.local (17762)] INFO : Finished instrumentation
+[12/29/16 06:34:08 +0900 kurata-keisuke-no-MacBook-Pro.local (17762)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1516472/applications/39762456
+[12/29/16 06:34:09 +0900 kurata-keisuke-no-MacBook-Pro.local (17762)] INFO : Doing deferred dependency-detection before Rack startup
+[12/29/16 06:36:43 +0900 kurata-keisuke-no-MacBook-Pro.local (17762)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1516472/applications/39762456
+[12/29/16 07:34:32 +0900 kurata-keisuke-no-MacBook-Pro.local (17762)] INFO : Starting Agent shutdown
+[12/29/16 07:42:35 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] INFO : Starting the New Relic agent in "development" environment.
+[12/29/16 07:42:35 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/29/16 07:42:35 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] INFO : Reading configuration from config/newrelic.yml
+[12/29/16 07:42:35 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] INFO : Enabling the Request Sampler.
+[12/29/16 07:42:35 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] INFO : Environment: development
+[12/29/16 07:42:35 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] INFO : No known dispatcher detected.
+[12/29/16 07:42:35 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] INFO : Application: My Application (Development)
+[12/29/16 07:42:36 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] INFO : Installing Net instrumentation
+[12/29/16 07:42:36 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] INFO : Installing deferred Rack instrumentation
+[12/29/16 07:42:36 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] INFO : Installing Unicorn instrumentation
+[12/29/16 07:42:36 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[12/29/16 07:42:36 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] INFO : Installing Rails 4 Controller instrumentation
+[12/29/16 07:42:37 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] INFO : Installing Rails 4 view instrumentation
+[12/29/16 07:42:37 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] INFO : Installing Rails4 Error instrumentation
+[12/29/16 07:42:37 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] INFO : Finished instrumentation
+[12/29/16 07:42:38 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1516472/applications/39762456
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23233)] INFO : Starting the New Relic agent in "development" environment.
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23232)] INFO : Starting the New Relic agent in "development" environment.
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23232)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23233)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23232)] INFO : Reading configuration from config/newrelic.yml
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23233)] INFO : Reading configuration from config/newrelic.yml
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23233)] INFO : Enabling the Request Sampler.
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23233)] INFO : Environment: development
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23233)] INFO : Dispatcher: unicorn
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23233)] INFO : Application: My Application (Development)
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23233)] INFO : Connecting workers after forking.
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23232)] INFO : Enabling the Request Sampler.
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23232)] INFO : Environment: development
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23232)] INFO : Dispatcher: unicorn
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23232)] INFO : Application: My Application (Development)
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23232)] INFO : Connecting workers after forking.
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23232)] INFO : Installing Net instrumentation
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23233)] INFO : Installing Net instrumentation
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23233)] INFO : Installing deferred Rack instrumentation
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23233)] INFO : Installing Unicorn instrumentation
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23233)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23232)] INFO : Installing deferred Rack instrumentation
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23232)] INFO : Installing Unicorn instrumentation
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23233)] INFO : Installing Rails 4 Controller instrumentation
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23232)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[12/29/16 07:44:58 +0900 kurata-keisuke-no-MacBook-Pro.local (23232)] INFO : Installing Rails 4 Controller instrumentation
+[12/29/16 07:45:00 +0900 kurata-keisuke-no-MacBook-Pro.local (23233)] INFO : Installing Rails 4 view instrumentation
+[12/29/16 07:45:00 +0900 kurata-keisuke-no-MacBook-Pro.local (23232)] INFO : Installing Rails 4 view instrumentation
+[12/29/16 07:45:00 +0900 kurata-keisuke-no-MacBook-Pro.local (23233)] INFO : Installing Rails4 Error instrumentation
+[12/29/16 07:45:00 +0900 kurata-keisuke-no-MacBook-Pro.local (23232)] INFO : Installing Rails4 Error instrumentation
+[12/29/16 07:45:00 +0900 kurata-keisuke-no-MacBook-Pro.local (23233)] INFO : Finished instrumentation
+[12/29/16 07:45:00 +0900 kurata-keisuke-no-MacBook-Pro.local (23232)] INFO : Finished instrumentation
+[12/29/16 07:45:06 +0900 kurata-keisuke-no-MacBook-Pro.local (23232)] INFO : Doing deferred dependency-detection before Rack startup
+[12/29/16 07:45:06 +0900 kurata-keisuke-no-MacBook-Pro.local (23233)] INFO : Doing deferred dependency-detection before Rack startup
+[12/29/16 07:56:24 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] INFO : Starting the New Relic agent in "development" environment.
+[12/29/16 07:56:24 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/29/16 07:56:24 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] INFO : Reading configuration from config/newrelic.yml
+[12/29/16 07:56:24 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] INFO : Enabling the Request Sampler.
+[12/29/16 07:56:24 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] INFO : Environment: development
+[12/29/16 07:56:24 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] INFO : Dispatcher: webrick
+[12/29/16 07:56:24 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] INFO : Application: My Application (Development)
+[12/29/16 07:56:24 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] INFO : Installing Net instrumentation
+[12/29/16 07:56:25 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] INFO : Installing deferred Rack instrumentation
+[12/29/16 07:56:25 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] INFO : Installing Unicorn instrumentation
+[12/29/16 07:56:25 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[12/29/16 07:56:25 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] INFO : Installing Rails 4 Controller instrumentation
+[12/29/16 07:56:25 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] INFO : Installing Rails 4 view instrumentation
+[12/29/16 07:56:25 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] INFO : Installing Rails4 Error instrumentation
+[12/29/16 07:56:25 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] INFO : Finished instrumentation
+[12/29/16 07:56:28 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1516472/applications/39762456
+[12/29/16 07:56:29 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] INFO : Doing deferred dependency-detection before Rack startup
+[12/29/16 08:43:44 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] ERROR : Error running task in Agent Worker Loop:
+[12/29/16 08:43:44 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] ERROR : Error running task in Agent Worker Loop:
+[12/29/16 08:43:44 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] ERROR : Errno::ENETUNREACH: Network is unreachable - connect(2)
+[12/29/16 08:43:44 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] ERROR : Errno::ENETUNREACH: Network is unreachable - connect(2)
+[12/29/16 09:22:10 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] ERROR : Error running task in Agent Worker Loop:
+[12/29/16 09:22:10 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] ERROR : Errno::ENETUNREACH: Network is unreachable - connect(2)
+[12/29/16 09:22:10 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] ERROR : Error running task in Agent Worker Loop:
+[12/29/16 09:22:10 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] ERROR : Errno::ENETUNREACH: Network is unreachable - connect(2)
+[12/29/16 12:20:56 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] ERROR : Error running task in Agent Worker Loop:
+[12/29/16 12:20:56 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] ERROR : Error running task in Agent Worker Loop:
+[12/29/16 12:20:56 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] ERROR : SocketError: getaddrinfo: nodename nor servname provided, or not known
+[12/29/16 12:20:56 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] ERROR : SocketError: getaddrinfo: nodename nor servname provided, or not known
+[12/29/16 14:27:10 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] ERROR : Error running task in Agent Worker Loop:
+[12/29/16 14:27:10 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] ERROR : Error running task in Agent Worker Loop:
+[12/29/16 14:27:10 +0900 kurata-keisuke-no-MacBook-Pro.local (23111)] ERROR : SocketError: getaddrinfo: nodename nor servname provided, or not known
+[12/29/16 14:27:10 +0900 kurata-keisuke-no-MacBook-Pro.local (24642)] ERROR : SocketError: getaddrinfo: nodename nor servname provided, or not known
+[01/06/17 13:57:05 +0900 kurata-keisuke-no-MacBook-Pro.local (3842)] INFO : Starting the New Relic agent in "development" environment.
+[01/06/17 13:57:05 +0900 kurata-keisuke-no-MacBook-Pro.local (3842)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/06/17 13:57:05 +0900 kurata-keisuke-no-MacBook-Pro.local (3842)] INFO : Reading configuration from config/newrelic.yml
+[01/06/17 13:57:05 +0900 kurata-keisuke-no-MacBook-Pro.local (3842)] INFO : Enabling the Request Sampler.
+[01/06/17 13:57:05 +0900 kurata-keisuke-no-MacBook-Pro.local (3842)] INFO : Environment: development
+[01/06/17 13:57:05 +0900 kurata-keisuke-no-MacBook-Pro.local (3842)] INFO : Dispatcher: webrick
+[01/06/17 13:57:05 +0900 kurata-keisuke-no-MacBook-Pro.local (3842)] INFO : Application: My Application (Development)
+[01/06/17 13:57:06 +0900 kurata-keisuke-no-MacBook-Pro.local (3842)] INFO : Installing Net instrumentation
+[01/06/17 13:57:06 +0900 kurata-keisuke-no-MacBook-Pro.local (3842)] INFO : Installing deferred Rack instrumentation
+[01/06/17 13:57:06 +0900 kurata-keisuke-no-MacBook-Pro.local (3842)] INFO : Installing Unicorn instrumentation
+[01/06/17 13:57:06 +0900 kurata-keisuke-no-MacBook-Pro.local (3842)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[01/06/17 13:57:06 +0900 kurata-keisuke-no-MacBook-Pro.local (3842)] INFO : Installing Rails 4 Controller instrumentation
+[01/06/17 13:57:06 +0900 kurata-keisuke-no-MacBook-Pro.local (3842)] INFO : Installing Rails 4 view instrumentation
+[01/06/17 13:57:06 +0900 kurata-keisuke-no-MacBook-Pro.local (3842)] INFO : Installing Rails4 Error instrumentation
+[01/06/17 13:57:06 +0900 kurata-keisuke-no-MacBook-Pro.local (3842)] INFO : Finished instrumentation
+[01/06/17 13:57:08 +0900 kurata-keisuke-no-MacBook-Pro.local (3842)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1516472/applications/39762456
+[01/06/17 13:57:10 +0900 kurata-keisuke-no-MacBook-Pro.local (3842)] INFO : Doing deferred dependency-detection before Rack startup

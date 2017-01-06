@@ -1,0 +1,32 @@
+I, [2016-12-29T07:43:02.414453 #23231]  INFO -- : listening on addr=/Users/keisuke/ex/bandpages/tmp/unicorn.sock fd=8
+I, [2016-12-29T07:43:02.415180 #23231]  INFO -- : worker=0 spawning...
+I, [2016-12-29T07:43:02.416567 #23231]  INFO -- : worker=1 spawning...
+I, [2016-12-29T07:43:02.417903 #23231]  INFO -- : master process ready
+I, [2016-12-29T07:43:02.418658 #23232]  INFO -- : worker=0 spawned pid=23232
+I, [2016-12-29T07:43:02.419232 #23232]  INFO -- : Refreshing Gem list
+I, [2016-12-29T07:43:02.419893 #23233]  INFO -- : worker=1 spawned pid=23233
+I, [2016-12-29T07:43:02.420501 #23233]  INFO -- : Refreshing Gem list
+I, [2016-12-29T07:45:06.673527 #23233]  INFO -- : worker=1 ready
+I, [2016-12-29T07:45:06.673572 #23232]  INFO -- : worker=0 ready
+D, [2016-12-29T08:43:32.227325 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-29T09:22:06.214942 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-29T09:40:15.224472 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-29T12:20:49.222672 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-29T14:22:02.206562 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-29T14:24:17.219971 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-29T14:26:57.227874 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-29T16:01:45.255007 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-29T17:56:16.321424 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-29T18:50:47.227774 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-29T21:39:42.214179 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-29T23:40:55.273017 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-30T01:42:08.231323 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-30T03:43:21.220311 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-30T05:44:34.215314 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-30T07:45:47.240077 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-30T09:47:00.230773 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-30T11:48:13.243989 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-30T12:05:20.267701 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-30T13:55:32.229079 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-30T23:44:42.072617 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2016-12-30T23:56:31.213462 #23231] DEBUG -- : waiting 31.0s after suspend/hibernation
